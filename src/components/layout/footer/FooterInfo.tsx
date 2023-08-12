@@ -103,12 +103,12 @@ const PoweredBy: Component = ({ className }) => {
   return (
     <span className={className}>
       Powered by{' '}
-      <StyledLink href="https://github.com/mx-space" target="_blank">
-        Mix Space
+      <StyledLink href="https://t.me/omniwarm" target="_blank">
+        Nebuluxe
       </StyledLink>
       . <Divider />
-      <StyledLink href="https://github.com/innei/Shiro" target="_blank">
-        Shiro
+      <StyledLink href="https://t.me/omniwarm" target="_blank">
+        yiyi
       </StyledLink>
       .
     </span>
