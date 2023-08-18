@@ -14,7 +14,7 @@ export const defaultLinkSections: LinkSection[] = [
       },
       {
         name: '关于此项目',
-        href: 'https://github.com/innei/Shiro',
+        href: 'https://t.me/omniwarm',
         external: true,
       },
     ],
@@ -46,12 +46,12 @@ export const defaultLinkSections: LinkSection[] = [
       },
       {
         name: '发邮件',
-        href: 'mailto:i@innei.ren',
+        href: 'akeemkeebler495@gmail.com',
         external: true,
       },
       {
         name: 'GitHub',
-        href: 'https://github.com/innei',
+        href: 'https://t.me/omniwarm',
         external: true,
       },
     ],
